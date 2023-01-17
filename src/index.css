@@ -1,0 +1,17 @@
+.main {
+  font-size: larger;
+  text-align: center;
+  font-weight: bolder;
+  margin: auto;
+  padding: 50px;
+  border: 2px solid black;
+  border-radius: 5px;
+}
+.myImg {
+  margin: auto;
+  text-align: center;
+}
+img {
+  width: 400px;
+  height: 300px;
+}
